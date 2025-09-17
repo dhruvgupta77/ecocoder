@@ -1,0 +1,13 @@
+README.md
+setup.py
+ecocoder/__init__.py
+ecocoder/analyzer.py
+ecocoder/cli.py
+ecocoder/github.py
+ecocoder/reporter.py
+ecocoder.egg-info/PKG-INFO
+ecocoder.egg-info/SOURCES.txt
+ecocoder.egg-info/dependency_links.txt
+ecocoder.egg-info/entry_points.txt
+ecocoder.egg-info/requires.txt
+ecocoder.egg-info/top_level.txt

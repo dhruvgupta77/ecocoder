@@ -1,0 +1,5 @@
+requests>=2.25.0
+PyGithub>=1.55
+matplotlib>=3.3.0
+python-dotenv>=0.15.0
+rich>=10.0.0
